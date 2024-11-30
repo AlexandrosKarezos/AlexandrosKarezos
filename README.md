@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi, I'm Alex
 
-I'm Alex from Germany and I’m currently pursuing my Master’s in Information Systems at the University of Hohenheim, with a focus on Industry 4.0, Data Science, AI.
-
+Studied Computer Science (B.Sc.) at the Hochschule für Technik in Stuttgart, Germany<br/>
+Currently Studying M.Sc. in Information Systems at the University of Hohenheim in Stuttgart, Germany<br/>
 Feel free to reach out if you’d like to discuss potential collaborations, share ideas, or connect professionally:
 
     [LinkedIn](https://www.linkedin.com/in/alexandros-karezos-b0583a272/)
