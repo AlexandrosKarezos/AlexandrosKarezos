@@ -9,7 +9,6 @@ Currently Studying Information Systems (M.Sc.) at the University of Hohenheim, G
 
 ## Contact 
 - Email **alexandros.karezos@protonmail.com**
-- LinkedIn **[Alexandros Karezos](https://linkedin.com/in/https://www.linkedin.com/in/alexandros-karezos-b0583a272/)**
 
 
 
